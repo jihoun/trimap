@@ -14,7 +14,7 @@ import {AppComponent} from './app.component';
         BrowserModule,
         HttpModule,
         AgmCoreModule.forRoot({
-            apiKey: 'AIzaSyDa_fM9YGg9oVMc6nzBw5_5xiI2Ag4CXOA'
+            apiKey: ''
         }),
         JsonpModule
     ],
